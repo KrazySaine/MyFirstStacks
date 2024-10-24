@@ -8,6 +8,8 @@
         public string Model { get; set; }
         public DateTime Year { get; set; }
         public string Color { get; set; }
+        public string Description { get; set; }
+
         // condition
     }
 }
